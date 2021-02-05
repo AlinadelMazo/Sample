@@ -1,2 +1,2 @@
-# Sample
-Initial repository
+# Initial repo
+Practice creation of repo
